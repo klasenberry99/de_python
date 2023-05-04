@@ -1,0 +1,7 @@
+serialize a python dictionary into a JSON object
+
+data = {
+    "president" :{
+        "name": Zaphod Beeblebrox
+    }
+}
